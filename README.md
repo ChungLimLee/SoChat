@@ -3,7 +3,7 @@
 **Technologies:** PHP, JavaScript, HTML, CSS, Server-Sent Events (SSE), MySQL
 
 **Description:**
-A fully-featured **real-time chat system built from scratch in vanilla PHP and JS**, designed with **security, efficiency, and portability** in mind. The system demonstrates advanced features often only found in framework-based or commercial apps.
+A fully-featured **real-time chat system built from scratch in vanilla PHP and JS**, designed with **security, efficiency, and portability** in mind. The system demonstrates advanced features that typical frameworks don’t provide by default.
 
 ---
 
@@ -53,7 +53,7 @@ A fully-featured **real-time chat system built from scratch in vanilla PHP and J
 
 ### **Why This Project Stands Out**
 
-* Implements **advanced features typically requiring frameworks or libraries**, done completely in **vanilla PHP and JS**.
+* Implements **advanced features typically don't provide by frameworks or libraries**, done completely in **vanilla PHP and JS**.
 * **Rare for a self-built system:** bi-directional single-session enforcement, portable chat history, incremental updates, 1:1 + group chat integration.
 * Demonstrates **real-world problem-solving**, handling security, session management, real-time communication, and scalable data updates.
 
